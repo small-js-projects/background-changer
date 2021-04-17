@@ -21,11 +21,11 @@
     background: bisque;
 }
 
-#click:active {
+/* #click:active {
     background-color: rgb(221, 184, 103)55, 255);
     box-shadow: chocolate;
-    transform: translateX(3px);
-}
+    transform: translateY(3px);
+} */
 
 #body {
     background: beige;
